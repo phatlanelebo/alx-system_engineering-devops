@@ -1,1 +1,1 @@
-Write a script that displays all users and their home directories
+Write a shell script that creates a file

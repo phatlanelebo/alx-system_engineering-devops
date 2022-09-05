@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly
+Display all the lines in the file

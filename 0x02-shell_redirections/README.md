@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly
+Write a script that displays all users and their home directories

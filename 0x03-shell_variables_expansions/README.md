@@ -1,1 +1,1 @@
-Create script that creates a new global variable
+Write a script that displays the result of BREATH to the power LOVE

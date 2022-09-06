@@ -1,1 +1,1 @@
-Display all lines
+Display all the lines

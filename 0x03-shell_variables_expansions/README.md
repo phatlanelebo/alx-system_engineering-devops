@@ -1,1 +1,1 @@
-Write a script that displays the result Breath to the power lovw
+Create a script that prints all possible combinations
